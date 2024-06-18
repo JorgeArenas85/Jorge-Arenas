@@ -1,0 +1,1 @@
+alert ("abrir panel de control");
